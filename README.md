@@ -3,19 +3,19 @@
 #使用
 ###属性说明
 
-```celery:numStars```：  表示星星的总数；
+    celery:numStars：表示星星的总数；
 
-```celery:rating```：    表示当前控件的数值；
+    celery:rating：表示当前控件的数值；
 
-```celery:stepSize```：  表示数值变化的单位大小；
+    celery:stepSize：表示数值变化的单位大小；
 
-```celery:star```：      背景星星图片；
+    celery:star：背景星星图片；
 
-```celery:progress```：  被选中时的图片；
+    celery:progress：被选中时的图片；
 
-```celery:isChangeValue```：表示用户是否可以改变当前的数值；
+    celery:isChangeValue：表示用户是否可以改变当前的数值；
 
-```celery:showType```：表示星星图片的大小是否会自动适应当前控件的大小；
+    celery:showType：表示星星图片的大小是否会自动适应当前控件的大小；
 
 ###事例
 ```
