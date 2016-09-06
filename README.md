@@ -43,5 +43,5 @@
 ```
 #效果
 
-![2016-09-06-10mzDemo](https://raw.githubusercontent.com/gwenjun08/CeleryRatingbar/master/CeleryRatingbar/app/2016-09-06-10mzDemo.gif)
+![image](https://raw.githubusercontent.com/gwenjun08/CeleryRatingbar/master/CeleryRatingbar/app/2016-09-06-10mzDemo.gif)
 
