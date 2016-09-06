@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:celery="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.celery.celeryratingbar.CeleryRatingBar
+        android:id="@+id/rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        celery:isChangeValue="true"
+        celery:numStars="5"
+        celery:rating="3"
+        celery:stepSize="0.1"
+        celery:star="@mipmap/star_nor"
+        celery:progress="@mipmap/star_presse"
+        celery:showType="auto"/>
+
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CeleryRatingBar">
+        <attr name="numStars" format="integer"/>
+        <attr name="rating" format="float"/>
+        <attr name="stepSize" format="float"/>
+        <attr name="star" format="reference"/>
+        <attr name="progress" format="reference"/>
+        <attr name="stepDimen" format="dimension"/>
+        <attr name="showType" format="enum">
+            <enum name="auto" value="0"/>
+            <enum name="manual" value="1"/>
+        </attr>
+        <attr name="isChangeValue" format="boolean"/>
+    </declare-styleable>
+</resources>
